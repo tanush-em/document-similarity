@@ -1,4 +1,4 @@
-# Document Similarity Tool
+# Document Similarity Checker
 
 A simple Python application that finds the most similar document to a given query using OpenAI embeddings and cosine similarity.
 
